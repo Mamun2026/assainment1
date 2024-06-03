@@ -1,0 +1,580 @@
+
+
+
+.head-protfolio{
+    padding-top: 100px;
+    text-align: center;
+}
+
+
+.head-protfolio h1{
+    font-family: Rubik;
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 47.4px;
+    letter-spacing: -0.015em;
+    text-align: center;
+    
+}
+
+.head-protfolio p{
+    font-family: Rubik;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21.33px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+
+.menu-btn{
+    
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    padding-top: 30px;
+    
+}
+
+.batton1{
+    background-color: #000000;
+    //styleName: 24 R;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: center;
+padding: 10px;
+
+}
+
+.batton2{
+  background-color: #FD6F00;
+  //styleName: 24 R;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: center;
+padding: 10px;
+}
+
+.batton3{
+    background-color: #000000;
+    //styleName: 24 R;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    padding: 10px;
+}
+
+.batton4{
+    background-color: #000000;
+    //styleName: 24 R;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: center;
+padding: 10px;
+
+}
+
+
+/* website research start */
+
+.website-research{
+      
+    display: grid;
+    grid-template-columns: auto auto ;
+    gap: 10px;
+
+}
+
+.img-main{
+    width: 300px;
+    height: 335px;
+    background: #000;
+    position: relative;
+    left:160px;
+    padding-left: 120px;
+    margin-top: 50px;
+}
+
+.img{
+    position: absolute;
+
+    top: 71px;
+    left: 22px;
+}
+
+.content{
+    width: 530px;
+    height: 300px;
+    padding: 10px 0px;
+  margin-left:-130px;
+  margin-top: 70px;
+}
+
+
+.content h6{
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    padding: 10px 0px;
+    
+}
+
+.content h4{
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    padding: 10px 0px;
+    
+}
+.content p{
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.33px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    padding: 10px 0px;
+    
+}
+
+
+
+.web-content{
+    width: 550px;
+    height: 300px;
+   margin-left:160px;
+   padding: 10px 0px;
+   margin-top: 20px 0px;
+}
+
+.web-content h6{
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    padding: 10px 0px;
+    
+    
+}
+
+.web-content h4{
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    padding: 10px 0px;
+        
+}
+
+.web-content p{
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.33px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    padding: 10px 0px;
+    
+}
+
+
+
+.main-image2{
+    /* width: 290px; */
+    height: 335px;
+    background: #000;
+    position: relative;
+    margin-right:160px;
+    padding-left: 120px;
+    margin-top: 50px;
+}
+
+.img1{
+    position: absolute;
+    top: 71px;
+    left: 22px;
+}
+/* website research end */
+
+/* contact start */
+
+.contact-head{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.contact-head h6{
+    font-family: Rubik;
+font-size: 18px;
+font-style: italic;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+
+}
+
+.contact-head h2{
+    font-family: Rubik;
+font-size: 40px;
+font-weight: 700;
+line-height: 56px;
+text-align: center;
+
+}
+
+.form-container{
+    width: 1040px;
+    height: 600px;
+    background-color: #34261B;
+    margin-left: 120px;
+}
+
+.form-container h1{
+    margin-left:100px;
+    padding-top:50px;
+    font-family: Rubik;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+
+}
+.form{
+    display: flex;
+    justify-content:space-between;
+    text-align: left;
+}
+.form h6{
+    font-family: Rubik;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+margin-left:100px;
+padding-top:50px;
+}
+
+.form h5{
+    font-family: Rubik;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+margin-right: 400px;
+padding-top: 50px ;
+text-decoration: underline;
+}
+.form-btn{
+    font-family: Rubik;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+
+background-color: #FD6F00;
+display: inline-block;
+margin-left: 100px;
+margin-top: 50px;
+padding: 18px 40px;
+}
+
+
+
+/* contact end*/
+
+/* footer start */
+.footer{
+    width: 1043px;
+    height: 200px;
+    background-color: #000000;
+    margin: 0px 118px;
+}
+
+.footer-logo{
+    text-align: center;
+    font-family: Poppins;
+font-size: 64px;
+font-weight: 700;
+line-height: 96px;
+letter-spacing: 0.03em;
+color:#FD6F00;
+
+}
+
+.footer-text{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-family: Poppins;
+font-size: 21px;
+font-weight: 100;
+line-height: 31.5px;
+letter-spacing: 0.03em;
+
+}
+
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding-top: 10px;
+}
+
+.last-footer{
+    text-align: center;
+    padding: 20px;
+height: 32px;
+width: 1006px;
+margin-left:118px;
+background-color: #121212;
+}
+/* footer end*/
+
+
+@media only screen and (min-width: 200px) and (max-width:600px){
+
+    .website-research{
+      
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-left: -100px;
+      
+
+      }
+    
+    .content{
+        width: 530px;
+        height: 300px;
+        padding: 10px 0px;
+      margin-left:150px;
+      margin-top: 70px;
+    }
+    
+    
+    .content h6{
+        font-family: Rubik;
+        font-size: 10px;
+        font-style: italic;
+        font-weight: 600;
+        line-height: 14px;
+        text-align: left;
+        padding: 10px 0px;
+        
+    }
+    
+    .content h4{
+        font-family: Rubik;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 30px;
+        text-align: left;
+        padding: 10px 0px;
+        
+    }
+    .content p{
+        font-family: Rubik;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 15.33px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        padding: 10px 0px;
+        
+    }
+    
+    
+    
+    
+    .web-content{
+        width: 530px;
+        height: 300px;
+        padding: 10px 0px;
+      margin-left:150px;
+      margin-top: 70px;
+    }
+        
+        
+    .web-content h6{
+        font-family: Rubik;
+        font-size: 10px;
+        font-style: italic;
+        font-weight: 600;
+        line-height: 14px;
+        text-align: left;
+        padding: 10px 0px;
+        
+    }
+        
+    .web-content h4{
+        font-family: Rubik;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 30px;
+        text-align: left;
+        padding: 10px 0px;
+        
+    }
+    .web-content p{
+        font-family: Rubik;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 15.33px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        padding: 10px 0px;
+        
+    }
+        
+    .main-image2{
+        width: 290px;
+        height: 335px;
+        background: #000;
+        position: relative;
+        margin-left:150px;
+        padding-left: 120px;
+        margin-top: 50px;
+    }
+    
+    .img1{
+        position: absolute;
+        top: 71px;
+        left: 22px;
+    }
+      
+    /* web reachers end */
+
+    
+    .form-container{
+        width: 540px;
+        height: 250px;
+        background-color: #34261B;
+        margin-left: 10px;
+    }
+    
+    .form-container h1{
+        margin-left:50px;
+        padding-top:25px;
+        font-family: Rubik;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    
+    }
+    .form{
+        display: flex;
+        justify-content:space-between;
+        text-align: left;
+    }
+    .form h6{
+        font-family: Rubik;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin-left:50px;
+    padding-top:15px;
+    }
+    
+    .form h5{
+        font-family: Rubik;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: left;
+    margin-right: 150px;
+    padding-top: 22px ;
+    text-decoration: underline;
+
+    }
+    .form-btn{
+        width: 70px;
+        height: 10px;
+        font-family: Rubik;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 14px;
+    padding: 10px;
+    background-color: #FD6F00;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 25px;
+    
+    }
+    
+    
+    
+    /* contact end*/
+    
+    /* footer start */
+    .footer{
+        width: 540px;
+        height: 200px;
+        background-color: #000000;
+        margin-left: 10px;
+    }
+    
+    .footer-logo{
+        text-align: center;
+        font-family: Poppins;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 96px;
+    letter-spacing: 0.03em;
+    color:#FD6F00;
+    
+    }
+    
+    .footer-text{
+        display: flex;
+        justify-content: center;
+        gap: 6px;
+        font-family: Poppins;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    
+    }
+    
+    .footer-icon{
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        padding-top: 10px;
+    }
+    
+    .last-footer{
+        text-align: center;
+        padding: 20px;
+    height: 32px;
+    width: 500px;
+    margin-left:10px;
+    background-color: #121212;
+    }
+    /* footer end*/
+
+}

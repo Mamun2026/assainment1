@@ -1,0 +1,221 @@
+
+
+
+.awards{
+
+    padding-bottom: 200px;
+    background-color: #1E1E1E;
+}
+.award-head{
+    width: Hug (541px)px;
+height: Hug (108px)px;
+gap: 19px;
+opacity: 0px;
+padding-bottom: 30px;
+
+}
+
+.award-head h1{
+    padding-top: 100px;
+    font-family: Rubik;
+font-size: 40px;
+font-weight: 800;
+line-height: 47.4px;
+letter-spacing: -0.015em;
+text-align: center;
+padding-bottom: 10px;
+}
+.award-head p{
+    font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.33px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+
+.award1{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    width: 800px;
+    height: 110px;
+    margin-left: 250px;
+    background-color: #000000;
+    padding-bottom: 30px;
+    padding: 30px;
+}
+
+
+.award1 h2{
+    font-family: Rubik;
+font-size: 24px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+
+}
+
+.award1 p{
+    font-family: Rubik;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+padding-top: 10px;
+}
+
+
+.Product{
+    font-family: Rubik;
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+
+}
+
+.award2{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    width: 800px;
+    height: 110px;
+    margin-left: 250px;
+    background-color: #000000;
+    border-top: 20px solid #1E1E1E;
+    padding: 30px;
+}
+
+
+
+
+.award2 h2{
+    font-family: Rubik;
+font-size: 24px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+
+}
+
+.award2 p{
+    font-family: Rubik;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+padding-top: 10px;
+}
+
+
+@media only screen and (min-width: 200px) and (max-width:600px){
+
+    .award-head{
+        width: Hug (541px)px;
+    height: Hug (108px)px;
+    gap: 19px;
+    opacity: 0px;
+    padding-bottom: 30px;
+    left: 0px;
+   
+   }
+
+   .award-head h1{
+    padding-top: 50px;
+    font-family: Rubik;
+font-size: 30px;
+font-weight: 800;
+line-height: 37.4px;
+letter-spacing: -0.015em;
+text-align: center;
+
+}
+.award-head p{
+    font-family: Rubik;
+font-size: 12px;
+font-weight: 400;
+line-height: 15.33px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+
+
+   .award1{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    width: 480px;
+    height: 110px;
+    margin-left: 10px;
+    background-color: #000000;
+    padding-bottom: 30px;
+    padding: 30px;
+}
+
+
+.award1 h2{
+    font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+
+
+}
+
+.award1 p{
+    font-family: Rubik;
+font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+padding-top: 20px;
+}
+
+
+.Product{
+    font-family: Rubik;
+font-size: 10px;
+font-weight: 700;
+line-height: 25px;
+text-align: left;
+
+}
+    .award2{
+        display: flex;
+        justify-content: space-between;
+        text-align: justify;
+        width: 480px;
+        height: 110px;
+        margin-left: 10px;
+        background-color: #000000;
+        border-top: 20px solid #1E1E1E;
+        padding: 30px;
+        left: 0px;
+
+    }
+    
+    .award2 h2{
+        font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    
+    
+    }
+    
+    .award2 p{
+        font-family: Rubik;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    padding-top: 20px;
+    }
+    
+
+}
